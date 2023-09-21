@@ -10,6 +10,7 @@ Front-end:
 
 Full-stack:
 - [ ] e-library
+- [ ] quiz (web version of 'vey')
 - [ ] facebook
 - [ ] wikipedia
 - [ ] blogger

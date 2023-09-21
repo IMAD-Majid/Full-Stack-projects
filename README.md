@@ -1,6 +1,6 @@
 # Full-Stack-projects
 
-Front-end:
+Front-end (Productivity & Utility):
 - [ ] task manager
 - [ ] goal tracker / project manager
 - [ ] expense tracker

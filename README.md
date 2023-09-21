@@ -1,12 +1,12 @@
 # Full-Stack-projects
 
-Front-end (Productivity & Utility):
+Front-end (Productivity & Utility & Exam preparation):
 - [ ] task manager
 - [ ] goal tracker / project manager
 - [ ] expense tracker
 - [ ] resume builder
 - [ ] portfolio builder
-- [ ] workout guider
+- [ ] HIIT workout guider
 
 Full-stack:
 - [ ] elibrary

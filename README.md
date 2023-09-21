@@ -9,7 +9,8 @@ Front-end:
 - [ ] workout guider
 
 Full-stack:
-- [ ] e-library
+- [ ] elibrary
+- [ ] gmail
 - [ ] quiz (web version of 'vey')
 - [ ] facebook
 - [ ] wikipedia

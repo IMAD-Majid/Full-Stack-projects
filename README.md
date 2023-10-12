@@ -6,7 +6,7 @@ Front-end (Productivity & Utility & Exam preparation):
 - [ ] expense tracker
 - [ ] resume builder
 - [ ] portfolio builder
-- [ ] HIIT workout guider
+- [ ] HIIT workout
 
 Full-stack:
 - [ ] elibrary

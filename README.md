@@ -13,6 +13,7 @@ Full-stack:
 - [ ] gmail
 - [ ] quiz (web version of 'vey')
 - [ ] facebook
+- [ ] projecteuler
 - [ ] wikipedia
 - [ ] blogger
 - [ ] amazon

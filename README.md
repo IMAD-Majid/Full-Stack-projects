@@ -9,11 +9,11 @@ Front-end (Productivity & Utility & Exam preparation):
 - [ ] HIIT workout
 
 Full-stack:
-- [ ] Tbourida
+- [x] Tbourida
 - [ ] elibrary
 - [ ] gmail
 - [ ] quiz (web version of 'vey')
-- [ ] facebook
+- [x] facebook
 - [ ] projecteuler
 - [ ] wikipedia
 - [ ] blogger

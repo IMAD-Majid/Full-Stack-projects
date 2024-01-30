@@ -16,10 +16,11 @@ Full-stack:
 - [x] facebook
 - [ ] projecteuler
 - [ ] wikipedia
+- [ ] quora
 - [ ] blogger
 - [ ] amazon
 - [ ] github
-- [ ] notepad
+- [ ] obsidian
 - [ ] youtube
 - [ ] w3schools
 - [ ] upwork
